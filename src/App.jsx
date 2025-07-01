@@ -6,6 +6,8 @@ let App = ()=>
   return (
     <div>
 
+      {/* pushed in git */}
+
       <h1>Hello everyone,Welcome to React Class</h1>
       {/* <p>Welcome to React Class.</p> */}
       {/* JSX -> JavaScript XML */}
